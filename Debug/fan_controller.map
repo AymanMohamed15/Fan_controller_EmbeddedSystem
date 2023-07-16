@@ -1,0 +1,933 @@
+Archive member included because of file (symbol)
+
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              ./DIO_prg.o (__mulsi3)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./TIMER_PRG.o (__udivmodhi4)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              ./DIO_prg.o (__divmodsi4)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./fan.o (__do_copy_data)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./TIMER_PRG.o (__do_clear_bss)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+                              ./ADC_prg.o (__muldi3)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                              ./TIMER_PRG.o (__lshrdi3)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                              ./LCD2.o (__ashldi3)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./DS18B20.o (__fixunssfsi)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+                              ./ADC_prg.o (__udivdi3)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+                              ./LCD2.o (__umoddi3)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./DS18B20.o (__mulsf3)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./DS18B20.o (__divsf3)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./DS18B20.o (__gtsf2)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./DIO_prg.o (__ltsf2)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./DS18B20.o (__floatunsisf)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o) (__prologue_saves__)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o) (__epilogue_restores__)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o) (__clz_tab)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o) (__clzsi2)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./ADC_prg.o
+LOAD ./DIO_prg.o
+LOAD ./DS18B20.o
+LOAD ./INTERRUPT_prg.o
+LOAD ./LCD2.o
+LOAD ./TIMER_PRG.o
+LOAD ./fan.o
+LOAD ./main.o
+LOAD e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x7500
+ *(.vectors)
+ .vectors       0x00000000       0x54 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_3
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_4
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./ADC_prg.o
+ .text          0x00000092        0x0 ./DIO_prg.o
+ .text          0x00000092        0x0 ./DS18B20.o
+ .text          0x00000092        0x0 ./INTERRUPT_prg.o
+ .text          0x00000092        0x0 ./LCD2.o
+ .text          0x00000092        0x0 ./TIMER_PRG.o
+ .text          0x00000092        0x0 ./fan.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000092        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000092        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000092        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092      0x1f6 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+                0x00000092                __muldi3
+ .text          0x00000288       0xfe e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                0x00000288                __lshrdi3
+ .text          0x00000386       0xfe e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                0x00000386                __ashldi3
+ .text          0x00000484       0x58 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000484                __fixunssfsi
+ .text          0x000004dc      0xcea e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+                0x000004dc                __udivdi3
+ .text          0x000011c6      0xce0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+                0x000011c6                __umoddi3
+ .text          0x00001ea6      0x354 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x0000213e                __subsf3
+                0x000021a0                __addsf3
+ .text          0x000021fa      0x1f4 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x000021fa                __mulsf3
+ .text          0x000023ee      0x158 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x000023ee                __divsf3
+ .text          0x00002546       0x60 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x00002546                __gtsf2
+ .text          0x000025a6       0x60 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000025a6                __gesf2
+ .text          0x00002606       0x60 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x00002606                __ltsf2
+ .text          0x00002666       0xa8 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x00002666                __fixsfsi
+ .text          0x0000270e        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x0000270e       0xf2 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x0000270e                __floatunsisf
+ .text          0x00002800        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00002800        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00002800        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00002800        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .text          0x00002800       0x9e e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00002800                __clzsi2
+ .text          0x0000289e      0x1aa e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x0000289e                __pack_f
+ .text          0x00002a48       0xf0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00002a48                __unpack_f
+ .text          0x00002b38       0xb2 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00002b38                __fpcmp_parts_f
+                0x00002bea                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ADC_VidInit
+                0x00002bea       0x2c ./ADC_prg.o
+                0x00002bea                ADC_VidInit
+ .text.ADC_VidReadChannel
+                0x00002c16      0x15a ./ADC_prg.o
+                0x00002c16                ADC_VidReadChannel
+ .text.ADC_VidDeinit
+                0x00002d70       0x34 ./ADC_prg.o
+                0x00002d70                ADC_VidDeinit
+ .text.DIO_VidSetPinDirection
+                0x00002da4      0x200 ./DIO_prg.o
+                0x00002da4                DIO_VidSetPinDirection
+ .text.DIO_VidSetPortDirection
+                0x00002fa4       0x82 ./DIO_prg.o
+                0x00002fa4                DIO_VidSetPortDirection
+ .text.DIO_VidSetPinValue
+                0x00003026      0x200 ./DIO_prg.o
+                0x00003026                DIO_VidSetPinValue
+ .text.DIO_VidSetPortValue
+                0x00003226       0x82 ./DIO_prg.o
+                0x00003226                DIO_VidSetPortValue
+ .text.DIO_VidTogglePinValue
+                0x000032a8       0xfa ./DIO_prg.o
+                0x000032a8                DIO_VidTogglePinValue
+ .text.DIO_U8GetPinValue
+                0x000033a2      0x104 ./DIO_prg.o
+                0x000033a2                DIO_U8GetPinValue
+ .text.map      0x000034a6       0xe2 ./DIO_prg.o
+                0x000034a6                map
+ .text.constrain
+                0x00003588       0xbe ./DIO_prg.o
+                0x00003588                constrain
+ .text.OneWireTemp
+                0x00003646       0xb4 ./DS18B20.o
+                0x00003646                OneWireTemp
+ .text.OneWireHigh
+                0x000036fa       0x22 ./DS18B20.o
+                0x000036fa                OneWireHigh
+ .text.OneWireRelease
+                0x0000371c       0x22 ./DS18B20.o
+                0x0000371c                OneWireRelease
+ .text.OneWireRead
+                0x0000373e       0x16 ./DS18B20.o
+                0x0000373e                OneWireRead
+ .text.OneWireReset
+                0x00003754      0x9b0 ./DS18B20.o
+                0x00003754                OneWireReset
+ .text.OneWireWriteBit
+                0x00004104      0x75e ./DS18B20.o
+                0x00004104                OneWireWriteBit
+ .text.OneWireReadBit
+                0x00004862      0x500 ./DS18B20.o
+                0x00004862                OneWireReadBit
+ .text.OneWireWriteByte
+                0x00004d62       0x42 ./DS18B20.o
+                0x00004d62                OneWireWriteByte
+ .text.OneWireReadByte
+                0x00004da4       0x50 ./DS18B20.o
+                0x00004da4                OneWireReadByte
+ .text.GIE_VidEnable
+                0x00004df4       0x1c ./INTERRUPT_prg.o
+                0x00004df4                GIE_VidEnable
+ .text.GIE_VidDisable
+                0x00004e10       0x1c ./INTERRUPT_prg.o
+                0x00004e10                GIE_VidDisable
+ .text.LCD_Command
+                0x00004e2c      0x6e2 ./LCD2.o
+                0x00004e2c                LCD_Command
+ .text.LCD_Char
+                0x0000550e      0x6e2 ./LCD2.o
+                0x0000550e                LCD_Char
+ .text.LCD_Init
+                0x00005bf0      0x214 ./LCD2.o
+                0x00005bf0                LCD_Init
+ .text.LCD_String
+                0x00005e04       0x56 ./LCD2.o
+                0x00005e04                LCD_String
+ .text.LCD_String_xy
+                0x00005e5a       0x58 ./LCD2.o
+                0x00005e5a                LCD_String_xy
+ .text.LCD_Clear
+                0x00005eb2      0x116 ./LCD2.o
+                0x00005eb2                LCD_Clear
+ .text.LCD_SendNum
+                0x00005fc8      0x846 ./LCD2.o
+                0x00005fc8                LCD_SendNum
+ .text.TIMER_VidSetCallBack
+                0x0000680e       0x72 ./TIMER_PRG.o
+                0x0000680e                TIMER_VidSetCallBack
+ .text.TIMER0_VidInitialize
+                0x00006880       0x96 ./TIMER_PRG.o
+                0x00006880                TIMER0_VidInitialize
+ .text.Timer0_VidSETDUTY
+                0x00006916       0x4c ./TIMER_PRG.o
+                0x00006916                Timer0_VidSETDUTY
+ .text.TIMER1_VidInitialize
+                0x00006962       0xac ./TIMER_PRG.o
+                0x00006962                TIMER1_VidInitialize
+ .text.Timer1_VidSETFreqency
+                0x00006a0e      0x13e ./TIMER_PRG.o
+                0x00006a0e                Timer1_VidSETFreqency
+ .text.Timer1_VidSETDUTY
+                0x00006b4c      0x212 ./TIMER_PRG.o
+                0x00006b4c                Timer1_VidSETDUTY
+ .text.TIMER2_VidInitialize
+                0x00006d5e       0x96 ./TIMER_PRG.o
+                0x00006d5e                TIMER2_VidInitialize
+ .text.Timer2_VidSETDUTY
+                0x00006df4       0x4c ./TIMER_PRG.o
+                0x00006df4                Timer2_VidSETDUTY
+ .text.__vector_11
+                0x00006e40      0x11a ./TIMER_PRG.o
+                0x00006e40                __vector_11
+ .text.__vector_5
+                0x00006f5a       0x5a ./TIMER_PRG.o
+                0x00006f5a                __vector_5
+ .text.__vector_9
+                0x00006fb4       0x20 ./TIMER_PRG.o
+                0x00006fb4                __vector_9
+ .text.__vector_6
+                0x00006fd4       0x20 ./TIMER_PRG.o
+                0x00006fd4                __vector_6
+ .text.fan_controllerint
+                0x00006ff4       0x6e ./fan.o
+                0x00006ff4                fan_controllerint
+ .text.LM35_U16_ReadTemp
+                0x00007062       0x20 ./fan.o
+                0x00007062                LM35_U16_ReadTemp
+ .text.check_thetemp
+                0x00007082      0x204 ./fan.o
+                0x00007082                check_thetemp
+ .text.main     0x00007286      0x128 ./main.o
+                0x00007286                main
+ .text.libgcc   0x000073ae       0x3e e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x000073ae                __mulsi3
+ .text.libgcc   0x000073ec       0x28 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x000073ec                __udivmodhi4
+ .text.libgcc   0x00007414       0x36 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x00007414                __divmodsi4
+ .text.libgcc   0x0000744a        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000744a        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000744a        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000744a       0x44 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000744a                __udivmodsi4
+ .text.libgcc   0x0000748e       0x38 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x0000748e                __prologue_saves__
+ .text.libgcc   0x000074c6       0x36 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x000074c6                __epilogue_restores__
+                0x000074fc                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000074fc        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000074fc                exit
+                0x000074fc                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000074fc        0x4 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00007500                _etext = .
+
+.data           0x00800060      0x134 load address 0x00007500
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./ADC_prg.o
+ .data          0x00800060        0x0 ./DIO_prg.o
+ .data          0x00800060        0x0 ./DS18B20.o
+ .data          0x00800060        0x0 ./INTERRUPT_prg.o
+ .data          0x00800060        0x0 ./LCD2.o
+ .data          0x00800060        0x0 ./TIMER_PRG.o
+ .data          0x00800060       0x17 ./fan.o
+ .data          0x00800077       0x14 ./main.o
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x0080008b        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x0080008b        0x8 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x0080008b                __thenan_sf
+ .data          0x00800093        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x00800093        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800093        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800093        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800093      0x100 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00800093                __clz_tab
+ .data          0x00800193        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800193        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800193        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800193        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800194                . = ALIGN (0x2)
+ *fill*         0x00800193        0x1 00
+                0x00800194                _edata = .
+                0x00800194                PROVIDE (__data_end, .)
+
+.bss            0x00800194       0x41
+                0x00800194                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800194        0x0 ./ADC_prg.o
+ .bss           0x00800194        0x0 ./DIO_prg.o
+ .bss           0x00800194        0x0 ./DS18B20.o
+ .bss           0x00800194        0x0 ./INTERRUPT_prg.o
+ .bss           0x00800194        0x0 ./LCD2.o
+ .bss           0x00800194        0x0 ./TIMER_PRG.o
+ .bss           0x00800194        0x0 ./fan.o
+ .bss           0x00800194        0x0 ./main.o
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800194        0x0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.bss*)
+ .bss.TIMER0_PFUNC
+                0x00800194        0x2 ./TIMER_PRG.o
+ .bss.TIMER1_PFUNC
+                0x00800196        0x2 ./TIMER_PRG.o
+ .bss.TIMER2_PFUNC
+                0x00800198        0x2 ./TIMER_PRG.o
+ .bss.tick.1434
+                0x0080019a        0x4 ./TIMER_PRG.o
+ .bss.DESIRED_TIME_TIMER0
+                0x0080019e        0x8 ./TIMER_PRG.o
+ .bss.PRE_SCALAR_TIMER0
+                0x008001a6        0x2 ./TIMER_PRG.o
+ .bss.T_OV_TIMER0
+                0x008001a8        0x4 ./TIMER_PRG.o
+ .bss.NUM_OV_TIMER0
+                0x008001ac        0x4 ./TIMER_PRG.o
+ .bss.PRE_LOAD_TIMER0
+                0x008001b0        0x4 ./TIMER_PRG.o
+ .bss.PRE_SCALAR_TIMER1
+                0x008001b4        0x2 ./TIMER_PRG.o
+ .bss.top_count
+                0x008001b6        0x8 ./TIMER_PRG.o
+ .bss.DESIRED_TIME_TIMER2
+                0x008001be        0x8 ./TIMER_PRG.o
+ .bss.PRE_SCALAR_TIMER2
+                0x008001c6        0x2 ./TIMER_PRG.o
+ .bss.T_OV_TIMER2
+                0x008001c8        0x4 ./TIMER_PRG.o
+ .bss.NUM_OV_TIMER2
+                0x008001cc        0x4 ./TIMER_PRG.o
+ .bss.PRE_LOAD_TIMER2
+                0x008001d0        0x4 ./TIMER_PRG.o
+ .bss.duty      0x008001d4        0x1 ./fan.o
+                0x008001d4                duty
+ *(COMMON)
+                0x008001d5                PROVIDE (__bss_end, .)
+                0x00007500                __data_load_start = LOADADDR (.data)
+                0x00007634                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001d5        0x0
+                0x008001d5                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001d5                PROVIDE (__noinit_end, .)
+                0x008001d5                _end = .
+                0x008001d5                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x3a38
+ *(.stab)
+ .stab          0x00000000      0x288 ./ADC_prg.o
+ .stab          0x00000288      0x564 ./DIO_prg.o
+                                0x5e8 (size before relaxing)
+ .stab          0x000007ec     0x153c ./DS18B20.o
+                               0x15c0 (size before relaxing)
+ .stab          0x00001d28      0x144 ./INTERRUPT_prg.o
+                                0x1c8 (size before relaxing)
+ .stab          0x00001e6c      0xf54 ./LCD2.o
+                               0x10e0 (size before relaxing)
+ .stab          0x00002dc0      0x684 ./TIMER_PRG.o
+                                0x708 (size before relaxing)
+ .stab          0x00003444      0x39c ./fan.o
+                                0x5ac (size before relaxing)
+ .stab          0x000037e0      0x258 ./main.o
+                                0x474 (size before relaxing)
+
+.stabstr        0x00000000     0x1748
+ *(.stabstr)
+ .stabstr       0x00000000     0x1748 ./ADC_prg.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x240
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x00000020       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x00000040       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x00000060       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000080       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x000000a0       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x000000c0       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000100       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000120       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000140       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x00000160       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x00000180       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x000001a0       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x000001c0       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x000001e0       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000200       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000220       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x291
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_pubnames
+                0x0000001f       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_pubnames
+                0x0000003f       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_pubnames
+                0x0000005f       0x23 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000082       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_pubnames
+                0x000000a2       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_pubnames
+                0x000000c2       0x2c e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x000000ee       0x1f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000010d       0x1f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000012c       0x1e e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x0000014a       0x1e e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x00000168       0x1e e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x00000186       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x000001a6       0x22 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x000001c8       0x24 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x000001ec       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_pubnames
+                0x0000020c       0x1f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000022b       0x1f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x0000024a       0x21 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x0000026b       0x26 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x3784
+ *(.debug_info)
+ .debug_info    0x00000000      0x206 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_info    0x00000206      0x17f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_info    0x00000385      0x17f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_info    0x00000504       0xb1 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000005b5      0x71e e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_info    0x00000cd3      0x757 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_info    0x0000142a      0x47a e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x000018a4      0x485 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x00001d29      0x3fc e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00002125      0x27f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x000023a4      0x27f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00002623      0x27f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x000028a2      0x2b0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x00002b52      0x12c e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00002c7e      0x206 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00002e84       0xa9 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_info    0x00002f2d      0x117 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00003044      0x2df e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00003323      0x251 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00003574      0x210 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1963
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xf0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_abbrev  0x000000f0       0xee e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x000001de       0xee e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x000002cc       0x5d e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x00000329      0x181 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x000004aa      0x190 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x0000063a      0x1ea e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000824      0x21b e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000a3f      0x216 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000c55      0x15a e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x00000daf      0x15a e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00000f09      0x15a e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00001063      0x17f e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x000011e2       0xad e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x0000128f      0x157 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x000013e6       0x6a e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_abbrev  0x00001450       0xc4 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00001514      0x1c0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x000016d4      0x154 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00001828      0x13b e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000     0x183b
+ *(.debug_line)
+ .debug_line    0x00000000       0xaf e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_line    0x000000af       0xd7 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_line    0x00000186       0xd7 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_line    0x0000025d       0xa7 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x00000304      0x1d8 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_line    0x000004dc      0x230 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_line    0x0000070c      0x2af e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x000009bb      0x239 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x00000bf4      0x1d5 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000dc9       0xd3 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000e9c       0xd3 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x00000f6f       0xd3 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x00001042      0x109 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x0000114b       0x90 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x000011db      0x133 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x0000130e       0x7c e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_line    0x0000138a       0xa5 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x0000142f      0x18a e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x000015b9      0x14b e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00001704      0x137 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x260
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_frame   0x00000020       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_frame   0x00000040       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_frame   0x00000060       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000080       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_frame   0x000000a0       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_frame   0x000000c0       0x40 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000100       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000120       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x00000140       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x00000160       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x00000180       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x000001a0       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000001c0       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x000001e0       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000200       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000220       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000240       0x20 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x3ac
+ *(.debug_str)
+ .debug_str     0x00000000       0xed e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+                                0x13f (size before relaxing)
+ .debug_str     0x000000ed       0x23 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                                0x131 (size before relaxing)
+ .debug_str     0x00000110        0xa e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                                0x131 (size before relaxing)
+ .debug_str     0x0000011a       0x14 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x0000012e       0x54 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+                                0x18a (size before relaxing)
+ .debug_str     0x00000182        0xa e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+                                0x18a (size before relaxing)
+ .debug_str     0x0000018c      0x14d e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x000002d9       0x27 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000300       0x35 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000335        0x8 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000033d        0x8 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000345        0x8 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000034d        0xa e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000357       0x21 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x00000000       0xf4 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_str     0x00000378        0x9 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x00000381       0x10 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00000391        0xb e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x0000039c       0x10 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000     0x2550
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xcc e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_muldi3.o)
+ .debug_loc     0x000000cc       0xf8 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_loc     0x000001c4       0xf8 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_loc     0x000002bc       0x34 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x000002f0      0xe74 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_loc     0x00001164      0xab2 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_loc     0x00001c16      0x32a e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x00001f40      0x104 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00002044       0xc0 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00002104       0x3c e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x00002140       0x3c e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000217c       0x3c e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000021b8       0x7e e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00002236       0x4c e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x00002282       0x94 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00002316      0x13e e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00002454       0xac e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00002500       0x50 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(fan_controller.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x80
+ .debug_ranges  0x00000000       0x18 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_ranges  0x00000018       0x18 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_ranges  0x00000030       0x50 e:/ali/03 courses/01 electronics/embedded diploma/02- embedded systems avr tools-20220825t224044z-001/01- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
